@@ -1,3 +1,3 @@
 # The-Drum_Kit
 Basic Javascript| HTML| CSS Application | 
-Screenshots:https://github.com/malyabansalper/The-Drum_Kit/issues/1#issue-702436720
+Running at :https://heuristic-swartz-39413a.netlify.app |
